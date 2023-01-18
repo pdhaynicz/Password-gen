@@ -18,5 +18,6 @@
 <p>WHEN the password is generated</p>
 <p>THEN the password is either displayed in an alert or written to the page</p>
   
-  
+<img width="661" alt="passgenscreenshot" src="https://user-images.githubusercontent.com/119817744/213041929-d0a5126c-b54a-40c5-9922-6bb546f97ee5.png">
+
 https://pdhaynicz.github.io/Password-gen/
